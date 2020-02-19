@@ -1,0 +1,21 @@
+body {
+	background-image: url("idea.jpg");
+	background-color: #00FF00;
+}
+
+#log{
+	background-color: #008B8B;
+	padding: 100px;
+	margina: 500px;
+	width: 300px;
+	height: auto;
+	background-position: center;
+    color: #FFF;
+}
+.welcome {
+	background-color: #008B8B;
+	color: blue;
+	margin: 0;
+	padding: 0;
+	height: 27px;
+}
